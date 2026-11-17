@@ -40,7 +40,7 @@ export function BioPage() {
       <div className="mt-8 flex w-full flex-col gap-3.5">
         <LinkButton
           href={siteConfig.links.telegram}
-          label="Acessar Meu Close Privê"
+          label="Acessar Meu Conteúdo Exclusivo"
           sublabel="Canal exclusivo"
           icon={TelegramIcon}
           tone="telegram"
